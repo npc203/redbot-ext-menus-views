@@ -1,5 +1,5 @@
 import discord
-from discord.ext import menus
+from redbot.vendored.discord.ext import menus
 
 
 class ViewMenu(menus.Menu):
